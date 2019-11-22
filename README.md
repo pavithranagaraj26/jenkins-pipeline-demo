@@ -30,7 +30,7 @@ jenkins      |
 jenkins      | Jenkins initial setup is required. An admin user has been created and a password generated.
 jenkins      | Please use the following password to proceed to installation:
 jenkins      |
-jenkins      | 45638c79cecd4f43962da2933980197e
+jenkins      | ********************************
 jenkins      |
 jenkins      | This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 jenkins      |
@@ -69,7 +69,7 @@ configure the kuberenetes with docker-desktop.
 
 ## pipeline creation
 
-###Dockerfile :
+### Dockerfile :
 
 ```
 FROM nginx
