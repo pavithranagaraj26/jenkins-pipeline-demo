@@ -1,7 +1,7 @@
 //Jenkinsfile to perform pipeline
 pipeline {
   environment {
-    registry = "impavithra/cicd"
+    registry = "impavithra/newdeployment"
     registryCredential = 'dockerhub'
     dockerImage = ''
   }
